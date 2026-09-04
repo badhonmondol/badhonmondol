@@ -6,7 +6,10 @@
 
 <img src="https://avatars.githubusercontent.com/badhonmondol?v=4" width="150" style="border-radius: 50%; border: 4px solid #6366f1;"/>
 
-<br/><br/>
+<h1>Badhon Mondal ☠️</h1>
+<h3>Full-Stack & Mobile Developer | Automation & Web Scraping Specialist</h3>
+
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Flutter+%26+React+Native+Developer+📱;Backend+%26+API+Expert+⚙️;Web+Scraping+Specialist+🕷️;n8n+Automation+Expert+🤖;Open+to+Freelance+%26+Remote+Work+🚀)](https://git.io/typing-svg)
 

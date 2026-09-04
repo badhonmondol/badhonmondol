@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=250&section=header&text=Badhon%20Mondal&fontSize=65&fontColor=61DAFB&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Apps%20%7C%20Automation%20Expert&descSize=17&descAlignY=58&descColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=250&section=header&text=Badhon%20Mondal&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Mobile%20Apps%20%7C%20Automation%20Expert&descSize=17&descAlignY=58&descColor=e0e0ff)
 
 <div align="center">
 
@@ -6,19 +6,19 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Reaper+%F0%9F%91%8B;Flutter+%26+React+Native+Developer;Python+Automation+%26+Scraping+Pro;n8n+Workflow+Architect;Building+cool+stuff+every+day+%F0%9F%94%A5" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=520&lines=Hey+there!+I'm+Reaper+%F0%9F%91%8B;Flutter+%26+React+Native+Developer+%F0%9F%93%B1;Python+Automation+%26+Scraping+Pro+%F0%9F%90%8D;n8n+Workflow+Architect+%F0%9F%A4%96;Building+cool+stuff+every+day+%F0%9F%94%A5" />
 
 <br/><br/>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badhonkumurm@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801821312017)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badhon-mondal-962b823a4/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://badhonmondol.github.io/BADHON-MONDAL/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badhonkumurm@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801821312017)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badhon-mondal-962b823a4/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://badhonmondol.github.io/BADHON-MONDAL/)
 
 <br/><br/>
 
-![Views](https://komarev.com/ghpvc/?username=badhonmondol&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS)
-![Status](https://img.shields.io/badge/🟢_STATUS-AVAILABLE%20FOR%20HIRE-00C853?style=for-the-badge)
+![Views](https://komarev.com/ghpvc/?username=badhonmondol&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS)
+![Status](https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
@@ -47,11 +47,11 @@ const badhon = {
 
 <br/>
 
-✅ &nbsp;Building **cross-platform mobile apps** people love to use  
-✅ &nbsp;Scraping, collecting & automating **anything on the web**  
-✅ &nbsp;Designing **n8n workflows** that save hours of manual work  
-✅ &nbsp;Writing code that is **clean, fast & scalable**  
-✅ &nbsp;Available for **remote work** & **freelance** projects worldwide  
+🚀 &nbsp;Building **cross-platform mobile apps** people love to use  
+🕷️ &nbsp;Scraping, collecting & automating **anything on the web**  
+🤖 &nbsp;Designing **n8n workflows** that save hours of manual work  
+⚡ &nbsp;Writing code that is **clean, fast & scalable**  
+🌍 &nbsp;Available for **remote work** & **freelance** projects worldwide  
 
 ---
 
@@ -75,7 +75,7 @@ const badhon = {
 ### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express](https://img.shields.io/badge/Express-white?style=for-the-badge&logo=express&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00AFF0?style=for-the-badge&logo=mysql&logoColor=white)
@@ -89,7 +89,7 @@ const badhon = {
 
 ### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -102,12 +102,17 @@ const badhon = {
 
 <div align="center">
 
-📱 **Flutter & React Native Apps** — Android + iOS, one codebase  
-🌐 **React Web Apps** — Fast, responsive, modern UI  
-🤖 **Python Automation & Bots** — Save hours, automate anything  
-🕷️ **Web Scraping & Data** — Selenium, Scrapy, Puppeteer  
-🔗 **n8n Workflow Automation** — No-code / low-code pipelines  
-⚡ **Native Android (Kotlin)** — High-performance native apps  
+![s1](https://img.shields.io/badge/📱_Flutter_%26_React_Native_Apps-Android+%2B+iOS%2C+one+codebase-02569B?style=for-the-badge)
+
+![s2](https://img.shields.io/badge/🌐_React_Web_Apps-Fast%2C+responsive%2C+modern+UI-20232A?style=for-the-badge&logoColor=61DAFB)
+
+![s3](https://img.shields.io/badge/🤖_Python_Automation_%26_Bots-Save+hours%2C+automate+anything-3776AB?style=for-the-badge)
+
+![s4](https://img.shields.io/badge/🕷️_Web_Scraping_%26_Data-Selenium%2C+Scrapy%2C+Puppeteer-43B02A?style=for-the-badge)
+
+![s5](https://img.shields.io/badge/🔗_n8n_Workflow_Automation-No--code+%2F+low--code+pipelines-EA4335?style=for-the-badge)
+
+![s6](https://img.shields.io/badge/⚡_Native_Android_(Kotlin)-High--performance+native+apps-7F52FF?style=for-the-badge)
 
 </div>
 
@@ -117,12 +122,12 @@ const badhon = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=badhonmondol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=FF6B9D&text_color=C9D1D9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhonmondol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9&langs_count=6" width="42%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=badhonmondol&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=FF6B9D&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhonmondol&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=6" width="42%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=badhonmondol&theme=tokyonight&hide_border=true&background=0D1117&ring=61DAFB&fire=FF6B9D&currStreakLabel=61DAFB" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=badhonmondol&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B9D&currStreakLabel=6C63FF" width="60%"/>
 
 </div>
 
@@ -132,7 +137,7 @@ const badhon = {
 
 <br/>
 
-*💡 "Code is not just syntax — it's the bridge between imagination and reality."*
+> 💡 *"Code is not just syntax — it's the bridge between imagination and reality."*
 
 <br/>
 
@@ -147,4 +152,4 @@ const badhon = {
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=150&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=150&section=footer&animation=fadeIn)

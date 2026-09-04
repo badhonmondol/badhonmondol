@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/badhonmondol?v=4" width="150" style="border-radius:50%"/>
+<img src="https://avatars.githubusercontent.com/badhonmondol?v=4" width="200" style="border-radius:50%"/>
 
 <br/><br/>
 
@@ -28,30 +28,23 @@
 
 <div align="center">
 
-```js
-const badhon = {
-  name    : "Badhon Mondal (Reaper)",
-  location: "Bangladesh 🇧🇩",
-  role    : "Full-Stack & Mobile Developer",
-  email   : "badhonkumurm@gmail.com",
-  phone   : "+8801821312017",
-  skills  : ["Flutter", "React Native", "React.js",
-             "Python", "Kotlin", "Node.js",
-             "Selenium", "Scrapy", "n8n"],
-  status  : "Open to work 🟢",
-  motto   : "Code it. Ship it. Improve it. 🚀"
-};
-```
+![name](https://img.shields.io/badge/👤_Name-Badhon%20Mondal%20(Reaper)-6C63FF?style=for-the-badge)
+![location](https://img.shields.io/badge/📍_Location-Bangladesh%20🇧🇩-FF6B9D?style=for-the-badge)
+![role](https://img.shields.io/badge/💼_Role-Full--Stack%20%26%20Mobile%20Developer-02569B?style=for-the-badge)
+![email](https://img.shields.io/badge/📧_Email-badhonkumurm%40gmail.com-EA4335?style=for-the-badge)
+![phone](https://img.shields.io/badge/📞_Phone-%2B8801821312017-25D366?style=for-the-badge)
+![status](https://img.shields.io/badge/🟢_Status-Open%20to%20Work-00C853?style=for-the-badge)
+![motto](https://img.shields.io/badge/💡_Motto-Code%20it.%20Ship%20it.%20Improve%20it.-F7DF1E?style=for-the-badge&logoColor=black)
+
+<br/><br/>
+
+![b1](https://img.shields.io/badge/🚀-Building%20cross--platform%20mobile%20apps-6C63FF?style=flat-square)
+![b2](https://img.shields.io/badge/🕷️-Scraping%20%26%20automating%20anything%20on%20the%20web-EA4335?style=flat-square)
+![b3](https://img.shields.io/badge/🤖-Designing%20n8n%20workflows%20that%20save%20hours-00C853?style=flat-square)
+![b4](https://img.shields.io/badge/⚡-Writing%20clean%2C%20fast%20%26%20scalable%20code-FF6B9D?style=flat-square)
+![b5](https://img.shields.io/badge/🌍-Available%20for%20remote%20%26%20freelance%20work-02569B?style=flat-square)
 
 </div>
-
-<br/>
-
-🚀 &nbsp;Building **cross-platform mobile apps** people love to use  
-🕷️ &nbsp;Scraping, collecting & automating **anything on the web**  
-🤖 &nbsp;Designing **n8n workflows** that save hours of manual work  
-⚡ &nbsp;Writing code that is **clean, fast & scalable**  
-🌍 &nbsp;Available for **remote work** & **freelance** projects worldwide  
 
 ---
 

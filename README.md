@@ -95,9 +95,13 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=badhonmondol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhonmondol&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-stats-alpha.vercel.app/api?username=badhonmondol&cc=1a1b27&tc=70a5fd&ic=bf91f3&bc=1a1b27"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badhonmondol&theme=tokyonight"/>
 
+</div>
+
+<div align="center">
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badhonmondol&theme=tokyonight"/>
 </div>
 
 <div align="center">
@@ -106,28 +110,6 @@
 
 <div align="center">
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=badhonmondol&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=badhonmondol&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-> ⚠️ Snake animation টি দেখতে হলে [Actions](https://github.com/badhonmondol/badhonmondol/actions) এ গিয়ে **"Generate Snake Animation"** workflow টি একবার manually **Run workflow** করো।
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/badhonmondol/badhonmondol/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/badhonmondol/badhonmondol/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/badhonmondol/badhonmondol/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
 </div>
 
 ---

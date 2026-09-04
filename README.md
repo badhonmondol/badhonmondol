@@ -1,150 +1,112 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Badhon Mondal</h1>
+<h3 align="center">Full-Stack & Mobile Developer | Automation & Web Scraping Specialist</h3>
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,12,20,24&height=200&section=header&text=BADHON%20MONDAL&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=☠️%20REAPER%20|%20Full-Stack%20Dev%20|%20Mobile%20|%20Automation&descSize=16&descAlignY=65&descFontColor=ffffffaa&stroke=ffffff&strokeWidth=1" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Flutter+%26+React+Native+Developer;Backend+%26+API+Developer;Web+Scraping+Specialist;n8n+Automation+Expert;Open+to+Freelance+%26+Remote+Work+🚀" alt="Typing SVG" />
+</p>
 
-</div>
+<p align="center">
+  <a href="mailto:badhonkumurm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/badhon-mondal-962b823a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://badhonmondol.github.io/BADHON-MONDAL/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://wa.me/8801821312017"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=badhonmondol&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<!-- NEOFETCH STYLE LAYOUT -->
-<table width="100%">
-<tr>
-<td width="42%" valign="middle" align="center">
+---
 
-<img src="https://avatars.githubusercontent.com/badhonmondol?v=4" width="200" style="border-radius:16px"/>
+## 👨‍💻 About Me
 
-<br/><br/>
+- 🔭 Currently building **Flutter & React Native** mobile apps
+- 🌱 Learning **AI Automation with n8n**
+- 💼 Available for **Freelance & Remote** work
+- 📍 Based in **Dhaka, Bangladesh**
+- 📧 Reach me at **badhonkumurm@gmail.com**
+- ⚡ Fun fact: *I automate everything I do more than twice*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2000&pause=800&color=A9FEF7&center=true&vCenter=true&width=320&lines=%24+./badhon+--start;%5BSYSTEM+ONLINE%5D+✓;%24+cat+developer.info)](https://git.io/typing-svg)
+---
 
-</td>
-<td width="58%" valign="top">
+## 🛠️ Tech Stack
 
-<!-- COLORFUL INFO CARD -->
-![](https://img.shields.io/badge/github%40badhonmondol-━━━━━━━━━━━━━━━━━━-58A6FF?style=flat-square&labelColor=0D1117)
+**Mobile Development**
 
-![](https://img.shields.io/badge/▸%20Status-🟢%20Available%20for%20Work-00D26A?style=flat-square&labelColor=161B22)
-![](https://img.shields.io/badge/▸%20Name-Badhon%20Mondal-A9FEF7?style=flat-square&labelColor=161B22)
-![](https://img.shields.io/badge/▸%20Alias-☠️%20Reaper-FF7B72?style=flat-square&labelColor=161B22)
-![](https://img.shields.io/badge/▸%20Location-Dhaka%2C%20Bangladesh%20🇧🇩-FFA657?style=flat-square&labelColor=161B22)
-![](https://img.shields.io/badge/▸%20Role-Full--Stack%20%26%20Mobile%20Dev-D2A8FF?style=flat-square&labelColor=161B22)
-![](https://img.shields.io/badge/▸%20Kernel-Flutter%20%7C%20Node.js%20%7C%20Python-79C0FF?style=flat-square&labelColor=161B22)
-![](https://img.shields.io/badge/▸%20Shell-React%20Native%20%7C%20Express%20%7C%20n8n-56D364?style=flat-square&labelColor=161B22)
-![](https://img.shields.io/badge/▸%20DB-MongoDB%20%7C%20Firebase%20%7C%20MySQL-E3B341?style=flat-square&labelColor=161B22)
-![](https://img.shields.io/badge/▸%20Scraping-Puppeteer%20%7C%20Selenium%20%7C%20Playwright-FF7B72?style=flat-square&labelColor=161B22)
-![](https://img.shields.io/badge/▸%20Tools-Git%20%7C%20Docker%20%7C%20Postman%20%7C%20Figma-A9FEF7?style=flat-square&labelColor=161B22)
-![](https://img.shields.io/badge/▸%20IDE-VS%20Code%20%7C%20Android%20Studio-D2A8FF?style=flat-square&labelColor=161B22)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![](https://img.shields.io/badge/─%20Contact%20─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-58A6FF?style=flat-square&labelColor=0D1117)
+**Frontend**
 
-![](https://img.shields.io/badge/▸%20Email-badhonkumurm%40gmail.com-EA4335?style=flat-square&labelColor=161B22&logo=gmail&logoColor=EA4335)
-![](https://img.shields.io/badge/▸%20WhatsApp-%2B8801821312017-25D366?style=flat-square&labelColor=161B22&logo=whatsapp&logoColor=25D366)
-![](https://img.shields.io/badge/▸%20LinkedIn-badhon--mondal-0A66C2?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=0A66C2)
-![](https://img.shields.io/badge/▸%20Portfolio-Visit%20Site-FF5722?style=flat-square&labelColor=161B22&logo=googlechrome&logoColor=FF5722)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![](https://img.shields.io/badge/─━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-58A6FF?style=flat-square&labelColor=0D1117)
+**Backend**
 
-</td>
-</tr>
-</table>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-<br/>
+**Database**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br/>
+**Automation & Scraping**
 
-<!-- TECH STACK -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28">
-  Tech Stack
-</h2>
+![n8n](https://img.shields.io/badge/n8n-EA4335?style=for-the-badge&logo=n8n&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,python,typescript,javascript,express&theme=dark&perline=8"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,docker,git,github,vscode,postman&theme=dark&perline=8"/>
-<br/>
-<img src="https://skillicons.dev/icons?i=selenium,html,css,tailwind,fastapi,linux,figma,androidstudio&theme=dark&perline=8"/>
-</div>
+**Tools**
 
-<br/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<br/>
+## 📊 GitHub Stats
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=badhonmondol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhonmondol&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=badhonmondol&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=badhonmondol&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A9FEF7&text_color=8B949E&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badhonmondol&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&langs_count=8" />
+---
 
-<br/><br/>
+## 🏆 GitHub Trophies
 
-<img width="65%" src="https://streak-stats.demolab.com?user=badhonmondol&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=A9FEF7&sideLabels=58A6FF&dates=6E7681" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=badhonmondol&theme=tokyonight&no-frame=true&margin-w=6&column=7" />
+</p>
 
-</div>
+---
 
-<br/>
+## 🐍 Contribution Snake
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=badhonmondol&bg_color=0D1117&color=58A6FF&line=A9FEF7&point=FF7B72&area=true&hide_border=true&area_color=58A6FF20" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/badhonmondol/badhonmondol/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/badhonmondol/badhonmondol/output/github-contribution-grid-snake.svg"/>
+    <img alt="Snake" src="https://raw.githubusercontent.com/badhonmondol/badhonmondol/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- SNAKE -->
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/badhonmondol/badhonmondol/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/badhonmondol/badhonmondol/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake" src="https://raw.githubusercontent.com/badhonmondol/badhonmondol/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- TROPHIES -->
-<h2 align="center">🏆 Trophies</h2>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=badhonmondol&theme=discord&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
-<!-- QUOTE + FOOTER -->
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
-
-![](https://komarev.com/ghpvc/?username=badhonmondol&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/badhonmondol?label=Followers&style=flat-square&color=58A6FF)
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20,24&height=120&section=footer&animation=twinkling"/>
-
-</div>
+<p align="center">
+  <i>💡 "Code is the closest thing to magic in the real world."</i>
+</p>

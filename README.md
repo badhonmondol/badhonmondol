@@ -155,30 +155,6 @@ Passion : Problem Solving, Clean Architecture, Cutting-Edge Tech
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=badhonmondol&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=badhonmondol&theme=tokyo-night&bg_color=0D1117&color=61DAFB&line=FF6B9D&point=FFFFFF&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/badhonmondol/badhonmondol/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
-</div>
-
----
-
 <div align="center">
 
 <br/>
